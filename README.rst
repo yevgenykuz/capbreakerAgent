@@ -1,6 +1,5 @@
-=========
 capbreakerAgent
-=========
+===============
 
 Agent for CapBreaker server. For more informatio, see `here <https://github.com/ghsi10/capbreaker>`_.
 
@@ -27,6 +26,3 @@ Authors
 =======
 * `ghsi10 <https://github.com/ghsi10>`_ - Lead developer
 * `yevegnykuz <https://github.com/yevegnykuz>`_
-
------
-
